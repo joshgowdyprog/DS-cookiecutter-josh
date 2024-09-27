@@ -1,4 +1,4 @@
-template project
+[template project]
 ==============================
 
 [template project description]
@@ -9,6 +9,7 @@ Project Organization
 .
 ├── LICENSE
 ├── README.txt
+├── piprequirements.txt
 ├── code
 ├── data
 │   ├── external
@@ -17,13 +18,7 @@ Project Organization
 │   └── raw
 ├── docs
 ├── references
+├── notebooks
 └── reports
-    └── figures
-
-
-
-Based on Cookiecutter Data Science For Simplified.  
-https://github.com/ekand/cookiecutter-data-science-simplified  
-Which is based on the cookiecutter data science project template.  
-https://drivendata.github.io/cookiecutter-data-science/  
+    └── figures 
 
